@@ -4,7 +4,7 @@ This repository provides a script to determine the air quality based on AQI (Air
 
 ## How It Works
 
-The `app.py` file receives a location input from the user, converts it to coordinates, retrieves the AQI using OpenWeatherMap, and prints the location's AQI along with the current air quality condition.
+The `app.py` file receives a location input from the user, converts it to coordinates, retrieves the AQI using OpenWeatherMap, and prints the location's AQI followed by the current air quality condition.
 
 ## Instructions
 
