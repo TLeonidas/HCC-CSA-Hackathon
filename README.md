@@ -1,6 +1,6 @@
 # Air Quality Prediction Model
 
-This repository provides a script to determine the air quality based on AQI (Air Quality Index) values of various pollutants. The AQI data is retrieved using the OpenWeatherMap API.
+This repository provides a script that retrieves Air Quality Index (AQI) data from the OpenWeatherMap API based on user-inputted locations. It aimed to provide real-time air quality data to residents and policymakers in areas affected by industrial pollution for health and safety purposes.
 
 ## How It Works
 
